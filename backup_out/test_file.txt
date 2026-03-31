@@ -1,0 +1,1 @@
+Este es un archivo de prueba para el backup inteligente. Contiene texto repetido para probar compresión.
